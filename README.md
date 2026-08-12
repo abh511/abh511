@@ -1,24 +1,208 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bhosale</h1>
-<h3 align="center">AI / Data Science Enthusiast | Building LLM & RAG Systems | CS Undergrad</h3>
+# 👋 Hi, I'm Abhishek Bhosale
 
-- 🔭 I’m currently working on **RAG-based Intelligent PDF Reader using LLMs**
+### 🤖 AI / Data Science Enthusiast • LLM & RAG Developer • Computer Science Undergraduate
 
-- 🌱 I’m currently learning **Generative AI, LLMs, RAG systems and Data Science (IIT Indore AIDS Program)**
+> **Building intelligent systems with Machine Learning, Generative AI, and LLMs.**
 
-- 👯 I’m looking to collaborate on **Open-source AI / Data Science / LLM projects**
+I'm a Computer Science undergraduate passionate about turning ideas into practical AI applications.
+Currently exploring **Large Language Models, Retrieval-Augmented Generation (RAG), Machine Learning, and Data Science**.
 
-- 🤝 I’m looking for help with **Scaling RAG systems and deploying ML/LLM applications**
+---
 
-- 📝 I regularly write articles on [Planning to write about AI, LLMs and Data Science](Planning to write about AI, LLMs and Data Science)
+## 🚀 What I'm Currently Working On
 
-- 💬 Ask me about **Machine Learning, LLMs, RAG, Python, Data Science projects**
+🔭 **RAG-Based Intelligent PDF Reader**
+Building an intelligent document assistant that can understand PDFs, retrieve relevant context, and answer questions using **LLMs + RAG**.
 
-- 📫 How to reach me **abhishekbhosale0511@gmail.com,**
+🌱 **Currently Learning**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+* 🤖 Generative AI & Large Language Models
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧠 Machine Learning & Deep Learning
+* 📊 Data Science & Analytics
+* ☁️ ML/LLM Application Deployment
+* ⚙️ Scalable AI System Architecture
+
+🎓 **Data Science — IIT Indore AIDS Program**
+
+---
+
+## 🧠 My AI / Data Science Focus
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Generative AI
+      ↓
+Large Language Models
+      ↓
+RAG Systems
+      ↓
+AI Agents & Intelligent Applications
+      ↓
+Production & Deployment
+```
+
+I'm particularly interested in building AI systems that go beyond simple chatbots — systems that can **retrieve information, reason over data, and solve real-world problems.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Python • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • OpenCV**
 
+### 🧠 Generative AI
+
+**LLMs • RAG • Prompt Engineering • Embeddings • Vector Search • Document Intelligence • AI Applications**
+
+### 🌐 Backend & Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="40"/>
+</p>
+
+**Python • Flask • Django • Node.js • React • REST APIs**
+
+### 🗄️ Databases
+
+**MySQL • PostgreSQL • MongoDB • SQLite • SQL Server • Oracle**
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+</p>
+
+**Docker • AWS • Google Cloud • Linux • Git • GitHub**
+
+### 💻 Programming
+
+**Python • C • C++ • Java • JavaScript • TypeScript • SQL • Bash**
+
+---
+
+## 🔥 Featured Projects
+
+### 📄 RAG-Based Intelligent PDF Reader
+
+> **LLMs + RAG + Document Intelligence**
+
+An AI-powered PDF assistant designed to understand documents and answer questions using retrieved context rather than relying solely on the model's internal knowledge.
+
+**Focus:**
+`PDF Processing` → `Chunking` → `Embeddings` → `Vector Search` → `Retrieval` → `LLM` → `Answer Generation`
+
+---
+
+### 🧠 Machine Learning Projects
+
+Building practical ML projects to strengthen my understanding of:
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Supervised & unsupervised learning
+* Model evaluation
+* Visualization
+* End-to-end ML workflows
+
+---
+
+## 📚 Currently Exploring
+
+```yaml
+Generative AI:
+  - Large Language Models
+  - RAG
+  - Embeddings
+  - Vector Databases
+  - Prompt Engineering
+  - AI Agents
+
+Machine Learning:
+  - Deep Learning
+  - NLP
+  - Computer Vision
+  - Model Evaluation
+  - Feature Engineering
+
+Engineering:
+  - FastAPI / Flask
+  - Docker
+  - Cloud Deployment
+  - Scalable AI Applications
+```
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build production-ready **LLM & RAG applications**
+* 🧠 Develop stronger foundations in **Machine Learning & Deep Learning**
+* 🔎 Learn advanced **RAG architectures and retrieval techniques**
+* ☁️ Deploy AI applications to the **cloud**
+* 🤝 Contribute to **open-source AI projects**
+* 💼 Build a strong portfolio of real-world **AI / Data Science projects**
+* 📖 Share what I learn through technical articles and projects
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on:
+
+* 🤖 Generative AI projects
+* 🧠 Machine Learning projects
+* 🔎 RAG & LLM applications
+* 📊 Data Science projects
+* 🌐 AI-powered web applications
+* 🌍 Open-source projects
+
+If you're building something interesting in AI, **let's connect!**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:abhishekbhosale0511@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💡 Ask Me About
+
+**Python • Machine Learning • Data Science • LLMs • RAG • Generative AI • Computer Vision • AI Projects**
+
+---
+
+<p align="center">
+
+### ⭐ If you find my projects interesting, consider giving them a star!
+
+**Thanks for visiting my profile! 🚀**
+
+</p>
