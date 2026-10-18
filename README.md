@@ -1,208 +1,80 @@
-# 👋 Hi, I'm Abhishek Bhosale
+# Hi, I'm Abhishek Bhosale 👋
 
-### 🤖 AI / Data Science Enthusiast • LLM & RAG Developer • Computer Science Undergraduate
+**Final-year Computer Engineering student (Honours in Data Science) building end-to-end ML and GenAI systems.**
 
-> **Building intelligent systems with Machine Learning, Generative AI, and LLMs.**
+I like projects that are measured against a baseline, tested, and packaged so someone else can run them. Lately that means RAG over long documents, LLM agents that write SQL safely, and forecasting models that are evaluated honestly.
 
-I'm a Computer Science undergraduate passionate about turning ideas into practical AI applications.
-Currently exploring **Large Language Models, Retrieval-Augmented Generation (RAG), Machine Learning, and Data Science**.
-
----
-
-## 🚀 What I'm Currently Working On
-
-🔭 **RAG-Based Intelligent PDF Reader**
-Building an intelligent document assistant that can understand PDFs, retrieve relevant context, and answer questions using **LLMs + RAG**.
-
-🌱 **Currently Learning**
-
-* 🤖 Generative AI & Large Language Models
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧠 Machine Learning & Deep Learning
-* 📊 Data Science & Analytics
-* ☁️ ML/LLM Application Deployment
-* ⚙️ Scalable AI System Architecture
-
-🎓 **Data Science — IIT Indore AIDS Program**
-
----
-
-## 🧠 My AI / Data Science Focus
-
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Generative AI
-      ↓
-Large Language Models
-      ↓
-RAG Systems
-      ↓
-AI Agents & Intelligent Applications
-      ↓
-Production & Deployment
-```
-
-I'm particularly interested in building AI systems that go beyond simple chatbots — systems that can **retrieve information, reason over data, and solve real-world problems.**
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI / Machine Learning
+📍 Pune, India &nbsp;·&nbsp; 🎓 NMIET (SPPU), B.E. 2027, CGPA 8.57 &nbsp;·&nbsp; 💼 Open to Data Science / ML / GenAI internships
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+<a href="https://www.linkedin.com/in/abhishek-bhosale-6b0760292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhishekbhosale0511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-**Python • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • OpenCV**
-
-### 🧠 Generative AI
-
-**LLMs • RAG • Prompt Engineering • Embeddings • Vector Search • Document Intelligence • AI Applications**
-
-### 🌐 Backend & Development
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="40"/>
-</p>
-
-**Python • Flask • Django • Node.js • React • REST APIs**
-
-### 🗄️ Databases
-
-**MySQL • PostgreSQL • MongoDB • SQLite • SQL Server • Oracle**
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-</p>
-
-**Docker • AWS • Google Cloud • Linux • Git • GitHub**
-
-### 💻 Programming
-
-**Python • C • C++ • Java • JavaScript • TypeScript • SQL • Bash**
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📄 RAG-Based Intelligent PDF Reader
+### 🗄️ [AskDB](https://github.com/abh511/askDB): Natural-Language Analytics Agent *(in progress)*
+Ask a business question in plain English and get back the SQL, a result table, a chart and a one-line answer, over a 9-table, ~100K-order e-commerce database in PostgreSQL.
+- Pipeline: schema retrieval → few-shot example selection → SQL generation → automatic retry on database errors
+- Four safety layers: a sqlglot guard (single SELECT, known tables only), a read-only DB role, a 5 s timeout and a 500-row limit
+- Evaluation harness of **100 hand-checked questions** in three difficulty tiers, with a leakage test between few-shot examples and the eval set
 
-> **LLMs + RAG + Document Intelligence**
+`Python` `PostgreSQL` `LangChain` `Groq` `ChromaDB` `sqlglot` `FastAPI` `MLflow` `Docker`
 
-An AI-powered PDF assistant designed to understand documents and answer questions using retrieved context rather than relying solely on the model's internal knowledge.
+### 🌍 [EnviroWatch AI](https://github.com/abh511/EAI): Environmental Risk Monitoring & Forecasting
+Full-stack platform monitoring 7 environmental indicators (air, water, noise, emissions, waste, urban heat, groundwater) across 20 locations in Pune and Mumbai, with alerts, 48-hour forecasts and a risk map.
+- Random Forest + XGBoost ensemble forecasting risk 3 hours ahead: **91% balanced accuracy vs. an 80% baseline**, catching **98%** of high-risk periods (time-split, simulated sensor data)
+- Anomaly detection combining physical-limit rules with an Isolation Forest
+- Site-suitability engine scoring 12 building types, plus a what-if simulator for traffic, industry and weather
+- Supabase PostgreSQL storage with migrations and CSV fallback; 25 automated tests
 
-**Focus:**
-`PDF Processing` → `Chunking` → `Embeddings` → `Vector Search` → `Retrieval` → `LLM` → `Answer Generation`
+`React` `FastAPI` `scikit-learn` `XGBoost` `Supabase` `pytest`
 
----
+### 📚 [AwarePDF](https://github.com/abh511/AwarePDF): AI Study Assistant for Engineering Textbooks
+RAG assistant for 700+ page textbooks: answers with page citations and supporting diagrams, chapter summaries, topic outlines and exam key points.
+- Hybrid retrieval: dense search + BM25 merged with reciprocal rank fusion, then cross-encoder reranking
+- Layout-aware ingestion with Docling that keeps section and page metadata and splits tables with repeated headers
+- Indexes a **1,126-page book in ~5 min** and answers in **5–8 s**; background diagram captioning with a vision model
 
-### 🧠 Machine Learning Projects
-
-Building practical ML projects to strengthen my understanding of:
-
-* Data preprocessing
-* Exploratory Data Analysis
-* Feature engineering
-* Supervised & unsupervised learning
-* Model evaluation
-* Visualization
-* End-to-end ML workflows
-
----
-
-## 📚 Currently Exploring
-
-```yaml
-Generative AI:
-  - Large Language Models
-  - RAG
-  - Embeddings
-  - Vector Databases
-  - Prompt Engineering
-  - AI Agents
-
-Machine Learning:
-  - Deep Learning
-  - NLP
-  - Computer Vision
-  - Model Evaluation
-  - Feature Engineering
-
-Engineering:
-  - FastAPI / Flask
-  - Docker
-  - Cloud Deployment
-  - Scalable AI Applications
-```
+`Python` `FastAPI` `Docling` `ChromaDB` `BM25` `Groq` `Docker`
 
 ---
 
-## 🎯 2026 Goals
+## 🛠️ Tech Stack
 
-* 🚀 Build production-ready **LLM & RAG applications**
-* 🧠 Develop stronger foundations in **Machine Learning & Deep Learning**
-* 🔎 Learn advanced **RAG architectures and retrieval techniques**
-* ☁️ Deploy AI applications to the **cloud**
-* 🤝 Contribute to **open-source AI projects**
-* 💼 Build a strong portfolio of real-world **AI / Data Science projects**
-* 📖 Share what I learn through technical articles and projects
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL, Java, C++ |
+| **Machine Learning** | Scikit-learn, XGBoost, Pandas, NumPy, time-series forecasting, anomaly detection |
+| **GenAI** | RAG, hybrid search, cross-encoder reranking, text-to-SQL agents, prompt engineering, LLM evaluation, LangChain, ChromaDB, sentence-transformers, Groq |
+| **Backend & Data** | FastAPI, PostgreSQL, Supabase, SQLAlchemy, React |
+| **Tools** | Docker, Git/GitHub, pytest, MLflow, Power BI, Claude Code, ChatGPT, GitHub Copilot |
 
----
-
-## 🤝 Let's Collaborate
-
-I'm open to collaborating on:
-
-* 🤖 Generative AI projects
-* 🧠 Machine Learning projects
-* 🔎 RAG & LLM applications
-* 📊 Data Science projects
-* 🌐 AI-powered web applications
-* 🌍 Open-source projects
-
-If you're building something interesting in AI, **let's connect!**
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="mailto:abhishekbhosale0511@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,fastapi,react,docker,git,supabase,java,cpp" />
 </p>
 
 ---
 
-## 💡 Ask Me About
+## 📜 Certifications
 
-**Python • Machine Learning • Data Science • LLMs • RAG • Generative AI • Computer Vision • AI Projects**
+- **AI & Data Science**: Drishti CPS (IIT Indore), 2026
+- **Python**: Kaggle, 2026
+- **SQL**: Intellipaat, 2026
+
+## 🤝 Activities
+
+- **Technical Assistant**, Technical Club, NMIET
+- **Bootcamp Mentor**: mentored 100+ junior students in programming and problem-solving
 
 ---
 
-<p align="center">
+## 🎯 Currently
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+- Running the AskDB evaluation and publishing the accuracy results
+- Deploying my projects with live demo links
+- Looking for a Data Science / ML / GenAI internship starting 2027
 
-**Thanks for visiting my profile! 🚀**
-
-</p>
+<p align="center"><i>Thanks for visiting. If a project is useful to you, a ⭐ is appreciated.</i></p>
